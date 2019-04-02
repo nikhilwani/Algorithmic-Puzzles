@@ -13,7 +13,7 @@
           
 * Iterative Double Scan
 - [x] UVa 00105 - The Skyline Problem (height map, sweep left-right)
-- [x] UVa 00347 - Run, Run, Runaround ... (simulate the process)
+- [x] UVa 00347 - Run, Run, Runaround (simulate the process)
 - [x] UVa 00471 - Magic Numbers (somewhat similar to UVa 725)
 - [ ] UVa 00617 - Nonstop Travel (try all integer speeds from 30 to 60 mph) 
 - [ ] UVa 00725 - Division (elaborated in this section)
@@ -30,7 +30,7 @@
 - [x] UVa 00188 - Perfect Hash (3 nested loops, until the answer is found)
 - [ ] UVa 00441 - Lotto * (6 nested loops)
 - [ ] UVa 00626 - Ecosystem (3 nested loops)
-- [ ] UVa 00703 - Triple Ties: The ... (3 nested loops)
+- [ ] UVa 00703 - Triple Ties
 - [ ] UVa 00735 - Dart-a-Mania * (3 nested loops, then count)
 - [ ] UVa 10102 - The Path in the ... *
 - [ ] UVa 10502 - Counting Rectangles (6 nested loops, rectangle, not too hard)
@@ -46,19 +46,19 @@
 - [x] UVa 00296 - Safebreaker (try all 10000 possible codes, 4 nested loops, use similar solution as ‘Master-Mind’ game)
 - [x] UVa 00386 - Perfect Cubes (4 nested loops with pruning)
 - [ ] UVa 10125 - Sumsets (sort; 4 nested loops; plus binary search)
-- [ ] UVa 10177 - (2/3/4)-D Sqr/Rects/... (2/3/4 nested loops, precalculate)
+- [ ] UVa 10177 - (2/3/4)-D Sqr/Rects
 - [ ] UVa 10360 - Rat Attack (also solvable using 10242 DP max sum)
 - [ ] UVa 10365 - Blocks (use 3 nested loops with pruning)
 - [ ] UVa 10483 - The Sum Equals
 - [ ] UVa 10660 - Citizen attention
 - [ ] UVa 10973 - Triangle Counting (3 nested loops with pruning)
 - [ ] UVa 11108 - Tautology (5 nested loops, try all 25 = 32 values with pruning)
-- [ ] UVa 11236 - Grocery Store *
+- [ ] UVa 11236 - Grocery Store
 - [ ] UVa 11342 - Three-square
 - [ ] UVa 11548 - Blackboard Bonanza (4 nested loops, string, pruning)
 - [ ] UVa 11565 - Simple Equations * (3 nested loops with pruning)
 - [ ] UVa 11804 - Argentina (5 nested loops)
-- [ ] UVa 11959 - Dice (try all possible dice positions, compare with the 2nd one) Also see Mathematical Simulation in Section 5.2
+- [ ] UVa 11959 - Dice (try all possible dice positions, compare with the 2nd one)
 
 * Iterative (Fancy Techniques)
 - [x] UVa 00140 - Bandwidth (max n is just 8, use next permutation; the algo- rithm inside next permutation is iterative)
@@ -69,7 +69,7 @@
 - [ ] UVa 01064 - Network (LA 3808, WorldFinals Tokyo07, permutation of up to 5 messages, simulation, mind the word ‘consecutive’)
 - [ ] UVa 11205 - The Broken Pedometer (try all 215 bitmask)
 - [ ] UVa 11412 - Dig the Holes (next permutation, find one possibility from 6!)
-- [ ] UVa 11553 - Grid Game * (solve by trying all n! permutations; you can also use DP + bitmask, see Section 8.3.1, but it is overkill)
+- [ ] UVa 11553 - Grid Game *
 - [ ] UVa 11742 - Social Constraints (discussed in this section)
 - [ ] UVa 12249 - Overlapping Scenes (LA 4994, KualaLumpur10, try all permu- tations, a bit of string matching)
 - [ ] UVa 12346 - Water Gate Management (LA 5723, Phuket11, try all 2n com- binations, pick the best one)
@@ -106,10 +106,10 @@
 - [ ] UVa 10063 - Knuth’s Permutation (do as asked)
 - [ ] UVa 10460 - Find the Permuted String (similar nature with UVa 10063)
 - [ ] UVa 10475 - Help the Leaders (generate and prune; try all)
-- [ ] UVa 10503 - The dominoes solitaire * (max 13 spaces only)
+- [ ] UVa 10503 - The dominoes solitaire
 - [ ] UVa 10506 - Ouroboros
-- [ ] UVa 10950 - Bad Code (sort the input; run backtracking; the output should be sorted; only display the first 100 sorted output)
-- [ ] UVa 11201 - The Problem with the ... (backtracking involving strings)
+- [ ] UVa 10950 - Bad Code
+- [ ] UVa 11201 - The Problem with the 
 - [ ] UVa 11961 - DNA 
 
 * Recursive Backtrack (Harder)
