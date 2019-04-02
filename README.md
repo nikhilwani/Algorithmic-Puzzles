@@ -4,18 +4,19 @@
 ## Complete Search
 * Iterative Single Scan
 - [x] UVa 00102 - Ecological Bin Packing
-- [ ] UVa 00256 - Quirksome Squares
-- [ ] UVa 00927 - Integer Sequence from
-- [ ] UVa 01237 - Expert Enough
+- [x] UVa 00256 - Quirksome Squares
+- [x] UVa 00927 - Integer Sequence from
+- [x] UVa 01237 - Expert Enough
 - [ ] UVa 10976 - Fractions Again?
 - [ ] UVa 11001 - Necklace
 - [ ] UVa 11078 - Open Credit System
           
 * Iterative Double Scan
-- [ ] UVa 00105 - The Skyline Problem (height map, sweep left-right)
-- [ ] UVa 00347 - Run, Run, Runaround ... (simulate the process)
-- [ ] UVa 00471 - Magic Numbers (somewhat similar to UVa 725)
-- [ ] UVa 00617 - Nonstop Travel (try all integer speeds from 30 to 60 mph) 5. UVa 00725 - Division (elaborated in this section)
+- [x] UVa 00105 - The Skyline Problem (height map, sweep left-right)
+- [x] UVa 00347 - Run, Run, Runaround ... (simulate the process)
+- [x] UVa 00471 - Magic Numbers (somewhat similar to UVa 725)
+- [ ] UVa 00617 - Nonstop Travel (try all integer speeds from 30 to 60 mph) 
+- [ ] UVa 00725 - Division (elaborated in this section)
 - [ ] UVa 01260 - Sales * (LA 4843, Daejeon10, check all)
 - [ ] UVa 10041 - Vito’s Family (try all possible location of Vito’s House) 
 - [ ] UVa 10487 - Closest Sums
@@ -26,7 +27,7 @@
 
 * Iterative Triple Scan
 - [ ] UVa 00154 - Recycling (3 nested loops)
-- [ ] UVa 00188 - Perfect Hash (3 nested loops, until the answer is found)
+- [x] UVa 00188 - Perfect Hash (3 nested loops, until the answer is found)
 - [ ] UVa 00441 - Lotto * (6 nested loops)
 - [ ] UVa 00626 - Ecosystem (3 nested loops)
 - [ ] UVa 00703 - Triple Ties: The ... (3 nested loops)
@@ -41,9 +42,9 @@
 - [ ] UVa 12515 - Movie Police (3 nested loops)
 
 * Iterative Three or More Scans
-- [ ] UVa 00253 - Cube painting (try all, similar problem in UVa 11959)
-- [ ] UVa 00296 - Safebreaker (try all 10000 possible codes, 4 nested loops, use similar solution as ‘Master-Mind’ game)
-- [ ] UVa 00386 - Perfect Cubes (4 nested loops with pruning)
+- [x] UVa 00253 - Cube painting (try all, similar problem in UVa 11959)
+- [x] UVa 00296 - Safebreaker (try all 10000 possible codes, 4 nested loops, use similar solution as ‘Master-Mind’ game)
+- [x] UVa 00386 - Perfect Cubes (4 nested loops with pruning)
 - [ ] UVa 10125 - Sumsets (sort; 4 nested loops; plus binary search)
 - [ ] UVa 10177 - (2/3/4)-D Sqr/Rects/... (2/3/4 nested loops, precalculate)
 - [ ] UVa 10360 - Rat Attack (also solvable using 10242 DP max sum)
@@ -60,8 +61,8 @@
 - [ ] UVa 11959 - Dice (try all possible dice positions, compare with the 2nd one) Also see Mathematical Simulation in Section 5.2
 
 * Iterative (Fancy Techniques)
-- [ ] UVa 00140 - Bandwidth (max n is just 8, use next permutation; the algo- rithm inside next permutation is iterative)
-- [ ] UVa 00234 - Switching Channels (use next permutation, simulation)
+- [x] UVa 00140 - Bandwidth (max n is just 8, use next permutation; the algo- rithm inside next permutation is iterative)
+- [x] UVa 00234 - Switching Channels (use next permutation, simulation)
 - [ ] UVa 00435 - Block Voting (only 220 possible coalition combinations)
 - [ ] UVa 00639 - Don’t Get Rooked (generate 216 combinations and prune)
 - [ ] UVa 01047 - Zones *
@@ -92,7 +93,7 @@
 - [ ] UVa 11085 - Back to the 8-Queens * (see UVa 750, pre-calculation)
 
 * Recursive Backtracking (Medium)
-- [ ] UVa 00222 - Budget Travel
+- [x] UVa 00222 - Budget Travel
 - [ ] UVa 00301 - Transportation (222 with pruning is possible)
 - [ ] UVa 00331 - Mapping the Swaps (n ≤ 5...)
 - [ ] UVa 00487 - Boggle Blitz (use map to store the generated words)
@@ -115,7 +116,7 @@
 - [ ] UVa 00129 - Krypton Factor 
 - [ ] UVa 00165 - Stamps (requires some DP too; can be pre-calculated)
 - [ ] UVa 00193 - Graph Coloring * (Max Independent Set, input is small)
-- [ ] UVa 00208 - Firetruck (backtracking with some pruning)
+- [x] UVa 00208 - Firetruck (backtracking with some pruning)
 - [ ] UVa 00416 - LED Test * (backtrack, try all)
 - [ ] UVa 00433 - Bank (Not Quite O.C.R.) (similar to UVa 416)
 - [ ] UVa 00565 - Pizza Anyone? (backtracking with lots of pruning)
