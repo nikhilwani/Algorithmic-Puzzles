@@ -43,7 +43,7 @@
 
 * Iterative Three or More Scans
 - [x] UVa 00253 - Cube painting (try all, similar problem in UVa 11959)
-- [x] UVa 00296 - Safebreaker (try all 10000 possible codes, 4 nested loops, use similar solution as ‘Master-Mind’ game)
+- [x] UVa 00296 - Safebreaker
 - [x] UVa 00386 - Perfect Cubes (4 nested loops with pruning)
 - [ ] UVa 10125 - Sumsets (sort; 4 nested loops; plus binary search)
 - [ ] UVa 10177 - (2/3/4)-D Sqr/Rects
